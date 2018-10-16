@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.bootdo.work.dao.WorkPlanDao">
+
+    <select id="getPlanByIndx" resultType="com.bootdo.work.domain.WorkPlanDO">
+        select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark`
+        from t_work_plan where Indx=#{value}
+    </select>
+    <select id="list" resultType="com.bootdo.work.domain.WorkPlanDO">
+        select
+        `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark`
+        from t_work_plan
+        <where>
+            <if test="indx != null and indx != ''"> and Indx = #{indx} </if>
+            <if test="workTask !=null and workTask !=''">and workTask=#{workTask}</if>
+            <if test="productName != null and productName != ''"> and productName = #{productName} </if>
+            <if test="developer != null and developer != ''"> and developer = #{developer} </if>
+            <if test="preStartTime != null and preStartTime != ''"> and preStartTime = #{preStartTime} </if>
+            <if test="preFinishTime != null and preFinishTime != ''"> and preFinishTime = #{preFinishTime} </if>
+            <if test="remark != null and remark != ''"> and remark = #{remark} </if>
+        </where>
+        <choose>
+            <when test="sort != null and sort.trim() != ''">
+                order by ${sort} ${order}
+            </when>
+            <otherwise>
+                order by Indx desc
+            </otherwise>
+        </choose>
+        <if test="offset != null and limit != null">
+            limit #{offset}, #{limit}
+        </if>
+    </select>
+    <select id="count" resultType="int">
+        select count(1) from t_work_plan
+        <where>
+            <if test="indx != null and indx != ''"> and Indx = #{indx} </if>
+            <if test="workTask !=null and workTask !=''">and workTask= #{workTask}</if>
+            <if test="productName != null and productName != ''"> and productName = #{productName} </if>
+            <if test="developer != null and developer != ''"> and developer = #{developer} </if>
+            <if test="preStartTime != null and preStartTime != ''"> and preStartTime = #{preStartTime} </if>
+            <if test="preFinishTime != null and preFinishTime != ''"> and preFinishTime = #{preFinishTime} </if>
+            <if test="remark != null and remark != ''"> and remark = #{remark} </if>
+        </where>
+    </select>
+    <insert id="save" parameterType="com.bootdo.work.domain.WorkPlanDO"
+            useGeneratedKeys="true" keyProperty="indx">
+        insert into t_work_plan
+        (
+        `productName`,
+        `workTask`,
+        `developer`,
+        `preStartTime`,
+        `preFinishTime`,
+        `remark`
+        )
+        values
+        (
+        #{productName},
+        #{workTask},
+        #{developer},
+        #{preStartTime},
+        #{preFinishTime},
+        #{remark}
+        )
+    </insert>
+
+    <update id="update" parameterType="com.bootdo.work.domain.WorkPlanDO">
+        update t_work_plan
+        <set>
+            <if test="productName != null">`productName` = #{productName}, </if>
+            <if test="workTask !=null">`workTask` = #{workTask},</if>
+            <if test="developer != null">`developer` = #{developer}, </if>
+            <if test="preStartTime != null">`preStartTime` = #{preStartTime}, </if>
+            <if test="preFinishTime != null">`preFinishTime` = #{preFinishTime}, </if>
+            <if test="remark != null">`remark` = #{remark}, </if>
+        </set>
+        where Indx = #{indx}
+    </update>
+
+    <delete id="remove">
+        delete from t_work_plan where Indx = #{value}
+    </delete>
+</mapper>

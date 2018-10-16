@@ -1,0 +1,1042 @@
+2018-09-26 08:58:57 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 10828]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17469]
+2018-09-26 08:59:01 -Validating all active sessions...
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17470]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17471]
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17472]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17473]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17474]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17475]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17476]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17477]
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17478]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17479]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17480]
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17481]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17482]
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17483]
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17484]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17485]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 08:59:03 -Validating all active sessions...
+2018-09-26 08:59:03 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17486]
+2018-09-26 08:59:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 09:15:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 17727]
+2018-09-26 09:45:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 18160]
+2018-09-26 09:47:03 -Validating all active sessions...
+2018-09-26 09:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 10:15:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 18593]
+2018-09-26 10:45:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 19026]
+2018-09-26 10:47:03 -Validating all active sessions...
+2018-09-26 10:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 11:15:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 19459]
+2018-09-26 11:45:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 19892]
+2018-09-26 11:47:03 -Validating all active sessions...
+2018-09-26 11:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 12:15:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 20325]
+2018-09-26 12:45:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 20758]
+2018-09-26 12:47:03 -Validating all active sessions...
+2018-09-26 12:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 13:15:40 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 21191]
+2018-09-26 13:45:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 21624]
+2018-09-26 13:47:03 -Validating all active sessions...
+2018-09-26 13:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 14:15:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 22057]
+2018-09-26 14:45:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 22490]
+2018-09-26 14:47:03 -Validating all active sessions...
+2018-09-26 14:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 15:15:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 22923]
+2018-09-26 15:45:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 10 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(10)-CONNECTED(10)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 117], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 22], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 23356]
+2018-09-26 15:47:03 -Validating all active sessions...
+2018-09-26 15:47:03 -Finished session validation.  No sessions were stopped.
+2018-09-26 15:52:00 -A cookie header was received [1537498759,1537627393,1537842329; JSESSIONID=c7d94be9-ba57-4f53-b13b-698410a59bb1; Hm_lpvt_dde6ba2851f3db0ddc415ce0f895822e=1537869381] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-09-26 15:52:05 -请求地址 : http://localhost:8080/login;JSESSIONID=a4f0b6cb-e3c0-4ec8-9a06-9e83c77166c6
+2018-09-26 15:52:05 -HTTP METHOD : GET
+2018-09-26 15:52:05 -CLASS_METHOD : com.bootdo.system.controller.LoginController.login
+2018-09-26 15:52:05 -参数 : []
+2018-09-26 15:52:06 -耗时 : 186
+2018-09-26 15:52:06 -返回值 : login
+2018-09-26 15:52:28 -请求地址 : http://localhost:8080/login
+2018-09-26 15:52:28 -HTTP METHOD : POST
+2018-09-26 15:52:28 -CLASS_METHOD : com.bootdo.system.controller.LoginController.ajaxLogin
+2018-09-26 15:52:28 -参数 : [admin, 111111]
+2018-09-26 15:52:30 -==>  Preparing: select `user_id`,`username`,`name`,`password`,`dept_id`,`email`,`mobile`,`status`,`user_id_create`,`gmt_create`,`gmt_modified`,`sex`,`birth`,`pic_id`,`live_address`,`hobby`,`province`,`city`,`district` from sys_user WHERE username = ? order by user_id desc 
+2018-09-26 15:52:31 -==> Parameters: admin(String)
+2018-09-26 15:52:32 -<==      Total: 1
+2018-09-26 15:52:32 -耗时 : 4212
+2018-09-26 15:52:32 -返回值 : {msg=操作成功, code=0}
+2018-09-26 15:52:33 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 15:52:33 -==> Parameters: 1(Long), admin(String), 登录(String), 4213(Integer), com.bootdo.system.controller.LoginController.ajaxLogin()(String), null, 127.0.0.1(String), 2018-09-26 15:52:32.843(Timestamp)
+2018-09-26 15:52:33 -<==    Updates: 1
+2018-09-26 15:52:33 -请求地址 : http://localhost:8080/index
+2018-09-26 15:52:33 -HTTP METHOD : GET
+2018-09-26 15:52:33 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 15:52:33 -参数 : [{}]
+2018-09-26 15:52:33 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 15:52:34 -==> Parameters: 1(Long)
+2018-09-26 15:52:34 -<==      Total: 30
+2018-09-26 15:52:34 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 15:52:34 -==> Parameters: 140(Long)
+2018-09-26 15:52:34 -<==      Total: 1
+2018-09-26 15:52:34 -耗时 : 771
+2018-09-26 15:52:34 -返回值 : index_v1
+2018-09-26 15:52:34 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 15:52:34 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 771(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 15:52:34.674(Timestamp)
+2018-09-26 15:52:34 -<==    Updates: 1
+2018-09-26 15:52:35 -请求地址 : http://localhost:8080/main
+2018-09-26 15:52:35 -HTTP METHOD : GET
+2018-09-26 15:52:35 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 15:52:35 -参数 : []
+2018-09-26 15:52:35 -耗时 : 0
+2018-09-26 15:52:35 -返回值 : main
+2018-09-26 15:52:37 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 15:52:37 -HTTP METHOD : GET
+2018-09-26 15:52:37 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 15:52:37 -参数 : []
+2018-09-26 15:52:37 -请求地址 : http://localhost:8080/main
+2018-09-26 15:52:37 -HTTP METHOD : GET
+2018-09-26 15:52:37 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 15:52:37 -参数 : []
+2018-09-26 15:52:37 -耗时 : 1
+2018-09-26 15:52:37 -返回值 : main
+2018-09-26 15:52:37 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 15:52:37 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 15:52:37 -<==      Total: 0
+2018-09-26 15:52:37 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 15:52:37 -==> Parameters: 1(Long), 0(String)
+2018-09-26 15:52:37 -<==      Total: 1
+2018-09-26 15:52:37 -耗时 : 201
+2018-09-26 15:52:37 -返回值 : com.bootdo.common.utils.PageUtils@54107213
+2018-09-26 15:52:57 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 15:52:57 -==> Parameters: 1(Long)
+2018-09-26 15:52:57 -<==      Total: 51
+2018-09-26 15:52:58 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 15:52:58 -HTTP METHOD : GET
+2018-09-26 15:52:58 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 15:52:58 -参数 : []
+2018-09-26 15:52:58 -耗时 : 18
+2018-09-26 15:52:58 -返回值 : work/plan/plan
+2018-09-26 15:52:59 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 15:52:59 -HTTP METHOD : GET
+2018-09-26 15:52:59 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 15:52:59 -参数 : []
+2018-09-26 15:52:59 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 15:52:59 -==> Parameters: 
+2018-09-26 15:52:59 -<==      Total: 5
+2018-09-26 15:52:59 -耗时 : 191
+2018-09-26 15:52:59 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:04:27 -请求地址 : http://localhost:8080/index
+2018-09-26 16:04:27 -HTTP METHOD : GET
+2018-09-26 16:04:27 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:04:27 -参数 : [{}]
+2018-09-26 16:04:27 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:04:27 -==> Parameters: 1(Long)
+2018-09-26 16:04:27 -<==      Total: 30
+2018-09-26 16:04:27 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:04:27 -==> Parameters: 140(Long)
+2018-09-26 16:04:27 -<==      Total: 1
+2018-09-26 16:04:27 -耗时 : 91
+2018-09-26 16:04:27 -返回值 : index_v1
+2018-09-26 16:04:27 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:04:27 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 91(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:04:27.56(Timestamp)
+2018-09-26 16:04:27 -请求地址 : http://localhost:8080/main
+2018-09-26 16:04:27 -HTTP METHOD : GET
+2018-09-26 16:04:27 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:04:27 -参数 : []
+2018-09-26 16:04:27 -耗时 : 0
+2018-09-26 16:04:27 -返回值 : main
+2018-09-26 16:04:28 -<==    Updates: 1
+2018-09-26 16:04:28 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:04:28 -HTTP METHOD : GET
+2018-09-26 16:04:28 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:04:28 -参数 : []
+2018-09-26 16:04:28 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:04:28 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:04:28 -<==      Total: 0
+2018-09-26 16:04:28 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:04:28 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:04:28 -<==      Total: 1
+2018-09-26 16:04:28 -耗时 : 46
+2018-09-26 16:04:28 -返回值 : com.bootdo.common.utils.PageUtils@611381e4
+2018-09-26 16:04:28 -请求地址 : http://localhost:8080/main
+2018-09-26 16:04:28 -HTTP METHOD : GET
+2018-09-26 16:04:28 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:04:28 -参数 : []
+2018-09-26 16:04:28 -耗时 : 42
+2018-09-26 16:04:28 -返回值 : main
+2018-09-26 16:04:33 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:04:33 -==> Parameters: 1(Long)
+2018-09-26 16:04:33 -<==      Total: 51
+2018-09-26 16:04:33 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:04:33 -HTTP METHOD : GET
+2018-09-26 16:04:33 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:04:33 -参数 : []
+2018-09-26 16:04:33 -耗时 : 0
+2018-09-26 16:04:33 -返回值 : work/plan/plan
+2018-09-26 16:04:33 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:04:33 -HTTP METHOD : GET
+2018-09-26 16:04:33 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:04:33 -参数 : []
+2018-09-26 16:04:33 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:04:33 -==> Parameters: 
+2018-09-26 16:04:33 -<==      Total: 5
+2018-09-26 16:04:33 -耗时 : 2
+2018-09-26 16:04:33 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:05:34 -请求地址 : http://localhost:8080/index
+2018-09-26 16:05:34 -HTTP METHOD : GET
+2018-09-26 16:05:34 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:05:34 -参数 : [{}]
+2018-09-26 16:05:34 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:05:34 -==> Parameters: 1(Long)
+2018-09-26 16:05:34 -<==      Total: 30
+2018-09-26 16:05:34 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:05:34 -==> Parameters: 140(Long)
+2018-09-26 16:05:34 -<==      Total: 1
+2018-09-26 16:05:34 -耗时 : 68
+2018-09-26 16:05:34 -返回值 : index_v1
+2018-09-26 16:05:34 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:05:34 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 68(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:05:34.227(Timestamp)
+2018-09-26 16:05:34 -请求地址 : http://localhost:8080/main
+2018-09-26 16:05:34 -HTTP METHOD : GET
+2018-09-26 16:05:34 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:05:34 -参数 : []
+2018-09-26 16:05:34 -耗时 : 0
+2018-09-26 16:05:34 -返回值 : main
+2018-09-26 16:05:34 -<==    Updates: 1
+2018-09-26 16:05:34 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:05:34 -HTTP METHOD : GET
+2018-09-26 16:05:34 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:05:34 -参数 : []
+2018-09-26 16:05:34 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:05:34 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:05:34 -<==      Total: 0
+2018-09-26 16:05:34 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:05:34 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:05:34 -<==      Total: 1
+2018-09-26 16:05:34 -耗时 : 4
+2018-09-26 16:05:34 -返回值 : com.bootdo.common.utils.PageUtils@bc9c9d2
+2018-09-26 16:05:34 -请求地址 : http://localhost:8080/main
+2018-09-26 16:05:34 -HTTP METHOD : GET
+2018-09-26 16:05:34 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:05:34 -参数 : []
+2018-09-26 16:05:34 -耗时 : 0
+2018-09-26 16:05:34 -返回值 : main
+2018-09-26 16:05:37 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:05:37 -HTTP METHOD : GET
+2018-09-26 16:05:37 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:05:37 -参数 : []
+2018-09-26 16:05:37 -耗时 : 0
+2018-09-26 16:05:37 -返回值 : work/plan/plan
+2018-09-26 16:05:37 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:05:37 -HTTP METHOD : GET
+2018-09-26 16:05:37 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:05:37 -参数 : []
+2018-09-26 16:05:37 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:05:37 -==> Parameters: 
+2018-09-26 16:05:37 -<==      Total: 5
+2018-09-26 16:05:37 -耗时 : 3
+2018-09-26 16:05:37 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:07:33 -请求地址 : http://localhost:8080/index
+2018-09-26 16:07:33 -HTTP METHOD : GET
+2018-09-26 16:07:33 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:07:33 -参数 : [{}]
+2018-09-26 16:07:33 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:07:33 -==> Parameters: 1(Long)
+2018-09-26 16:07:33 -<==      Total: 30
+2018-09-26 16:07:33 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:07:33 -==> Parameters: 140(Long)
+2018-09-26 16:07:33 -<==      Total: 1
+2018-09-26 16:07:33 -耗时 : 61
+2018-09-26 16:07:33 -返回值 : index_v1
+2018-09-26 16:07:33 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:07:33 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 61(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:07:33.634(Timestamp)
+2018-09-26 16:07:33 -<==    Updates: 1
+2018-09-26 16:07:33 -请求地址 : http://localhost:8080/main
+2018-09-26 16:07:33 -HTTP METHOD : GET
+2018-09-26 16:07:33 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:07:33 -参数 : []
+2018-09-26 16:07:33 -耗时 : 1
+2018-09-26 16:07:33 -返回值 : main
+2018-09-26 16:07:34 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:07:34 -HTTP METHOD : GET
+2018-09-26 16:07:34 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:07:34 -参数 : []
+2018-09-26 16:07:34 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:07:34 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:07:34 -<==      Total: 0
+2018-09-26 16:07:34 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:07:34 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:07:34 -<==      Total: 1
+2018-09-26 16:07:34 -耗时 : 47
+2018-09-26 16:07:34 -返回值 : com.bootdo.common.utils.PageUtils@56fb44d4
+2018-09-26 16:07:34 -请求地址 : http://localhost:8080/main
+2018-09-26 16:07:34 -HTTP METHOD : GET
+2018-09-26 16:07:34 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:07:34 -参数 : []
+2018-09-26 16:07:34 -耗时 : 0
+2018-09-26 16:07:34 -返回值 : main
+2018-09-26 16:14:42 -请求地址 : http://localhost:8080/
+2018-09-26 16:14:42 -HTTP METHOD : GET
+2018-09-26 16:14:42 -CLASS_METHOD : com.bootdo.system.controller.LoginController.welcome
+2018-09-26 16:14:42 -参数 : [{}]
+2018-09-26 16:14:42 -耗时 : 3
+2018-09-26 16:14:42 -返回值 : redirect:/index
+2018-09-26 16:14:45 -请求地址 : http://localhost:8080/login;JSESSIONID=660d9f98-29e6-4ef6-b452-30f80e940afa
+2018-09-26 16:14:45 -HTTP METHOD : GET
+2018-09-26 16:14:45 -CLASS_METHOD : com.bootdo.system.controller.LoginController.login
+2018-09-26 16:14:45 -参数 : []
+2018-09-26 16:14:45 -耗时 : 1
+2018-09-26 16:14:45 -返回值 : login
+2018-09-26 16:14:48 -请求地址 : http://localhost:8080/login
+2018-09-26 16:14:48 -HTTP METHOD : POST
+2018-09-26 16:14:48 -CLASS_METHOD : com.bootdo.system.controller.LoginController.ajaxLogin
+2018-09-26 16:14:48 -参数 : [admin, 111111]
+2018-09-26 16:14:48 -==>  Preparing: select `user_id`,`username`,`name`,`password`,`dept_id`,`email`,`mobile`,`status`,`user_id_create`,`gmt_create`,`gmt_modified`,`sex`,`birth`,`pic_id`,`live_address`,`hobby`,`province`,`city`,`district` from sys_user WHERE username = ? order by user_id desc 
+2018-09-26 16:14:48 -==> Parameters: admin(String)
+2018-09-26 16:14:48 -<==      Total: 1
+2018-09-26 16:14:48 -耗时 : 42
+2018-09-26 16:14:48 -返回值 : {msg=操作成功, code=0}
+2018-09-26 16:14:48 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:14:48 -==> Parameters: 1(Long), admin(String), 登录(String), 42(Integer), com.bootdo.system.controller.LoginController.ajaxLogin()(String), null, 127.0.0.1(String), 2018-09-26 16:14:48.177(Timestamp)
+2018-09-26 16:14:48 -请求地址 : http://localhost:8080/index
+2018-09-26 16:14:48 -HTTP METHOD : GET
+2018-09-26 16:14:48 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:14:48 -参数 : [{}]
+2018-09-26 16:14:48 -<==    Updates: 1
+2018-09-26 16:14:48 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:14:48 -==> Parameters: 1(Long)
+2018-09-26 16:14:48 -<==      Total: 30
+2018-09-26 16:14:48 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:14:48 -==> Parameters: 140(Long)
+2018-09-26 16:14:48 -<==      Total: 1
+2018-09-26 16:14:48 -耗时 : 130
+2018-09-26 16:14:48 -返回值 : index_v1
+2018-09-26 16:14:48 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:14:48 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 130(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:14:48.364(Timestamp)
+2018-09-26 16:14:48 -<==    Updates: 1
+2018-09-26 16:14:48 -请求地址 : http://localhost:8080/main
+2018-09-26 16:14:48 -HTTP METHOD : GET
+2018-09-26 16:14:48 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:14:48 -参数 : []
+2018-09-26 16:14:48 -耗时 : 0
+2018-09-26 16:14:48 -返回值 : main
+2018-09-26 16:14:48 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:14:48 -HTTP METHOD : GET
+2018-09-26 16:14:48 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:14:48 -参数 : []
+2018-09-26 16:14:48 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:14:48 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:14:48 -<==      Total: 0
+2018-09-26 16:14:48 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:14:48 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:14:48 -<==      Total: 1
+2018-09-26 16:14:48 -耗时 : 6
+2018-09-26 16:14:48 -返回值 : com.bootdo.common.utils.PageUtils@6f415778
+2018-09-26 16:14:48 -请求地址 : http://localhost:8080/main
+2018-09-26 16:14:48 -HTTP METHOD : GET
+2018-09-26 16:14:48 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:14:48 -参数 : []
+2018-09-26 16:14:48 -耗时 : 0
+2018-09-26 16:14:48 -返回值 : main
+2018-09-26 16:14:51 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:14:51 -==> Parameters: 1(Long)
+2018-09-26 16:14:51 -<==      Total: 51
+2018-09-26 16:14:51 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:14:51 -HTTP METHOD : GET
+2018-09-26 16:14:51 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:14:51 -参数 : []
+2018-09-26 16:14:51 -耗时 : 0
+2018-09-26 16:14:51 -返回值 : work/plan/plan
+2018-09-26 16:14:51 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:14:51 -HTTP METHOD : GET
+2018-09-26 16:14:51 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:14:51 -参数 : []
+2018-09-26 16:14:51 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:14:51 -==> Parameters: 
+2018-09-26 16:14:51 -<==      Total: 5
+2018-09-26 16:14:51 -耗时 : 2
+2018-09-26 16:14:51 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:15:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 15 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(15)-CONNECTED(15)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 8, active threads = 0, queued tasks = 0, completed tasks = 177], outboundChannelpool size = 1, active threads = 0, queued tasks = 0, completed tasks = 32], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 23780]
+2018-09-26 16:18:08 -请求地址 : http://localhost:8080/index
+2018-09-26 16:18:08 -HTTP METHOD : GET
+2018-09-26 16:18:08 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:18:08 -参数 : [{}]
+2018-09-26 16:18:08 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:18:08 -==> Parameters: 1(Long)
+2018-09-26 16:18:08 -<==      Total: 30
+2018-09-26 16:18:08 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:18:08 -==> Parameters: 140(Long)
+2018-09-26 16:18:08 -<==      Total: 1
+2018-09-26 16:18:08 -耗时 : 13
+2018-09-26 16:18:08 -返回值 : index_v1
+2018-09-26 16:18:08 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:18:08 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 13(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:18:08.954(Timestamp)
+2018-09-26 16:18:09 -<==    Updates: 1
+2018-09-26 16:18:09 -请求地址 : http://localhost:8080/main
+2018-09-26 16:18:09 -HTTP METHOD : GET
+2018-09-26 16:18:09 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:18:09 -参数 : []
+2018-09-26 16:18:09 -耗时 : 0
+2018-09-26 16:18:09 -返回值 : main
+2018-09-26 16:18:09 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:18:09 -HTTP METHOD : GET
+2018-09-26 16:18:09 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:18:09 -参数 : []
+2018-09-26 16:18:09 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:18:09 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:18:09 -<==      Total: 0
+2018-09-26 16:18:09 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:18:09 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:18:09 -<==      Total: 1
+2018-09-26 16:18:09 -耗时 : 3
+2018-09-26 16:18:09 -返回值 : com.bootdo.common.utils.PageUtils@165688d5
+2018-09-26 16:18:09 -请求地址 : http://localhost:8080/main
+2018-09-26 16:18:09 -HTTP METHOD : GET
+2018-09-26 16:18:09 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:18:09 -参数 : []
+2018-09-26 16:18:09 -耗时 : 0
+2018-09-26 16:18:09 -返回值 : main
+2018-09-26 16:18:19 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:18:19 -==> Parameters: 1(Long)
+2018-09-26 16:18:19 -<==      Total: 51
+2018-09-26 16:18:19 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:18:19 -HTTP METHOD : GET
+2018-09-26 16:18:19 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:18:19 -参数 : []
+2018-09-26 16:18:19 -耗时 : 1
+2018-09-26 16:18:19 -返回值 : work/plan/plan
+2018-09-26 16:18:20 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:18:20 -HTTP METHOD : GET
+2018-09-26 16:18:20 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:18:20 -参数 : []
+2018-09-26 16:18:20 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:18:20 -==> Parameters: 
+2018-09-26 16:18:20 -<==      Total: 5
+2018-09-26 16:18:20 -耗时 : 23
+2018-09-26 16:18:20 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:21:13 -请求地址 : http://localhost:8080/index
+2018-09-26 16:21:13 -HTTP METHOD : GET
+2018-09-26 16:21:13 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:21:13 -参数 : [{}]
+2018-09-26 16:21:13 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:21:13 -==> Parameters: 1(Long)
+2018-09-26 16:21:13 -<==      Total: 30
+2018-09-26 16:21:13 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:21:13 -==> Parameters: 140(Long)
+2018-09-26 16:21:13 -<==      Total: 1
+2018-09-26 16:21:13 -耗时 : 24
+2018-09-26 16:21:13 -返回值 : index_v1
+2018-09-26 16:21:13 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:21:13 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 24(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:21:13.203(Timestamp)
+2018-09-26 16:21:13 -<==    Updates: 1
+2018-09-26 16:21:13 -请求地址 : http://localhost:8080/main
+2018-09-26 16:21:13 -HTTP METHOD : GET
+2018-09-26 16:21:13 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:21:13 -参数 : []
+2018-09-26 16:21:13 -耗时 : 0
+2018-09-26 16:21:13 -返回值 : main
+2018-09-26 16:21:13 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:21:13 -HTTP METHOD : GET
+2018-09-26 16:21:13 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:21:13 -参数 : []
+2018-09-26 16:21:13 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:21:13 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:21:13 -<==      Total: 0
+2018-09-26 16:21:13 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:21:13 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:21:13 -<==      Total: 1
+2018-09-26 16:21:13 -耗时 : 5
+2018-09-26 16:21:13 -返回值 : com.bootdo.common.utils.PageUtils@5231da93
+2018-09-26 16:21:13 -请求地址 : http://localhost:8080/main
+2018-09-26 16:21:13 -HTTP METHOD : GET
+2018-09-26 16:21:13 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:21:13 -参数 : []
+2018-09-26 16:21:13 -耗时 : 1
+2018-09-26 16:21:13 -返回值 : main
+2018-09-26 16:21:16 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:21:16 -==> Parameters: 1(Long)
+2018-09-26 16:21:16 -<==      Total: 51
+2018-09-26 16:21:16 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:21:16 -HTTP METHOD : GET
+2018-09-26 16:21:16 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:21:16 -参数 : []
+2018-09-26 16:21:16 -耗时 : 0
+2018-09-26 16:21:16 -返回值 : work/plan/plan
+2018-09-26 16:21:17 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:21:17 -HTTP METHOD : GET
+2018-09-26 16:21:17 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:21:17 -参数 : []
+2018-09-26 16:21:17 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:21:17 -==> Parameters: 
+2018-09-26 16:21:17 -<==      Total: 5
+2018-09-26 16:21:17 -耗时 : 5
+2018-09-26 16:21:17 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:26:31 -请求地址 : http://localhost:8080/index
+2018-09-26 16:26:31 -HTTP METHOD : GET
+2018-09-26 16:26:31 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:26:31 -参数 : [{}]
+2018-09-26 16:26:31 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:26:31 -==> Parameters: 1(Long)
+2018-09-26 16:26:31 -<==      Total: 30
+2018-09-26 16:26:31 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:26:31 -==> Parameters: 140(Long)
+2018-09-26 16:26:31 -<==      Total: 1
+2018-09-26 16:26:31 -耗时 : 51
+2018-09-26 16:26:31 -返回值 : index_v1
+2018-09-26 16:26:31 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:26:31 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 51(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:26:31.229(Timestamp)
+2018-09-26 16:26:31 -<==    Updates: 1
+2018-09-26 16:26:31 -请求地址 : http://localhost:8080/main
+2018-09-26 16:26:31 -HTTP METHOD : GET
+2018-09-26 16:26:31 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:26:31 -参数 : []
+2018-09-26 16:26:31 -耗时 : 1
+2018-09-26 16:26:31 -返回值 : main
+2018-09-26 16:26:31 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:26:31 -HTTP METHOD : GET
+2018-09-26 16:26:31 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:26:31 -参数 : []
+2018-09-26 16:26:31 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:26:31 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:26:31 -<==      Total: 0
+2018-09-26 16:26:31 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:26:31 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:26:31 -<==      Total: 1
+2018-09-26 16:26:31 -耗时 : 5
+2018-09-26 16:26:31 -返回值 : com.bootdo.common.utils.PageUtils@29066f04
+2018-09-26 16:26:31 -请求地址 : http://localhost:8080/main
+2018-09-26 16:26:31 -HTTP METHOD : GET
+2018-09-26 16:26:31 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:26:31 -参数 : []
+2018-09-26 16:26:31 -耗时 : 0
+2018-09-26 16:26:31 -返回值 : main
+2018-09-26 16:26:36 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:26:36 -==> Parameters: 1(Long)
+2018-09-26 16:26:36 -<==      Total: 51
+2018-09-26 16:26:36 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:26:36 -HTTP METHOD : GET
+2018-09-26 16:26:36 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:26:36 -参数 : []
+2018-09-26 16:26:36 -耗时 : 1
+2018-09-26 16:26:36 -返回值 : work/plan/plan
+2018-09-26 16:26:37 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:26:37 -HTTP METHOD : GET
+2018-09-26 16:26:37 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:26:37 -参数 : []
+2018-09-26 16:26:37 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:26:37 -==> Parameters: 
+2018-09-26 16:26:37 -<==      Total: 5
+2018-09-26 16:26:37 -耗时 : 3
+2018-09-26 16:26:37 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:26:38 -请求地址 : http://localhost:8080/work/plan/add
+2018-09-26 16:26:38 -HTTP METHOD : GET
+2018-09-26 16:26:38 -CLASS_METHOD : com.bootdo.work.controller.PlanController.add
+2018-09-26 16:26:38 -参数 : []
+2018-09-26 16:26:38 -耗时 : 1
+2018-09-26 16:26:38 -返回值 : work/plan/add
+2018-09-26 16:26:38 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:26:38 -==> Parameters: 1(Long), admin(String), 添加工作计划(String), 1(Integer), com.bootdo.work.controller.PlanController.add()(String), null, 127.0.0.1(String), 2018-09-26 16:26:38.619(Timestamp)
+2018-09-26 16:26:38 -<==    Updates: 1
+2018-09-26 16:28:06 -请求地址 : http://localhost:8080/index
+2018-09-26 16:28:06 -HTTP METHOD : GET
+2018-09-26 16:28:06 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:28:06 -参数 : [{}]
+2018-09-26 16:28:06 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:28:06 -==> Parameters: 1(Long)
+2018-09-26 16:28:06 -<==      Total: 30
+2018-09-26 16:28:06 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:28:06 -==> Parameters: 140(Long)
+2018-09-26 16:28:06 -<==      Total: 1
+2018-09-26 16:28:06 -耗时 : 58
+2018-09-26 16:28:06 -返回值 : index_v1
+2018-09-26 16:28:06 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:28:06 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 58(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:28:06.257(Timestamp)
+2018-09-26 16:28:06 -<==    Updates: 1
+2018-09-26 16:28:06 -请求地址 : http://localhost:8080/main
+2018-09-26 16:28:06 -HTTP METHOD : GET
+2018-09-26 16:28:06 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:28:06 -参数 : []
+2018-09-26 16:28:06 -耗时 : 1
+2018-09-26 16:28:06 -返回值 : main
+2018-09-26 16:28:06 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:28:06 -HTTP METHOD : GET
+2018-09-26 16:28:06 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:28:06 -参数 : []
+2018-09-26 16:28:06 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:28:06 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:28:06 -<==      Total: 0
+2018-09-26 16:28:06 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:28:06 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:28:06 -<==      Total: 1
+2018-09-26 16:28:06 -耗时 : 8
+2018-09-26 16:28:06 -返回值 : com.bootdo.common.utils.PageUtils@c10ddc6
+2018-09-26 16:28:06 -请求地址 : http://localhost:8080/main
+2018-09-26 16:28:06 -HTTP METHOD : GET
+2018-09-26 16:28:06 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:28:06 -参数 : []
+2018-09-26 16:28:06 -耗时 : 0
+2018-09-26 16:28:06 -返回值 : main
+2018-09-26 16:28:11 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:28:11 -HTTP METHOD : GET
+2018-09-26 16:28:11 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:28:11 -参数 : []
+2018-09-26 16:28:11 -耗时 : 1
+2018-09-26 16:28:11 -返回值 : work/plan/plan
+2018-09-26 16:28:11 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:28:11 -HTTP METHOD : GET
+2018-09-26 16:28:11 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:28:11 -参数 : []
+2018-09-26 16:28:11 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:28:11 -==> Parameters: 
+2018-09-26 16:28:11 -<==      Total: 5
+2018-09-26 16:28:11 -耗时 : 2
+2018-09-26 16:28:11 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:32:28 -请求地址 : http://localhost:8080/index
+2018-09-26 16:32:28 -HTTP METHOD : GET
+2018-09-26 16:32:28 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:32:28 -参数 : [{}]
+2018-09-26 16:32:28 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:32:28 -==> Parameters: 1(Long)
+2018-09-26 16:32:28 -<==      Total: 30
+2018-09-26 16:32:28 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:32:28 -==> Parameters: 140(Long)
+2018-09-26 16:32:28 -<==      Total: 1
+2018-09-26 16:32:28 -耗时 : 52
+2018-09-26 16:32:28 -返回值 : index_v1
+2018-09-26 16:32:28 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:32:28 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 52(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:32:28.641(Timestamp)
+2018-09-26 16:32:28 -<==    Updates: 1
+2018-09-26 16:32:28 -请求地址 : http://localhost:8080/main
+2018-09-26 16:32:28 -HTTP METHOD : GET
+2018-09-26 16:32:28 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:32:28 -参数 : []
+2018-09-26 16:32:28 -耗时 : 0
+2018-09-26 16:32:28 -返回值 : main
+2018-09-26 16:32:29 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:32:29 -HTTP METHOD : GET
+2018-09-26 16:32:29 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:32:29 -参数 : []
+2018-09-26 16:32:29 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:32:29 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:32:29 -<==      Total: 0
+2018-09-26 16:32:29 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:32:29 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:32:29 -<==      Total: 1
+2018-09-26 16:32:29 -耗时 : 30
+2018-09-26 16:32:29 -返回值 : com.bootdo.common.utils.PageUtils@6e518de4
+2018-09-26 16:32:29 -请求地址 : http://localhost:8080/main
+2018-09-26 16:32:29 -HTTP METHOD : GET
+2018-09-26 16:32:29 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:32:29 -参数 : []
+2018-09-26 16:32:29 -耗时 : 0
+2018-09-26 16:32:29 -返回值 : main
+2018-09-26 16:32:30 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:32:30 -==> Parameters: 1(Long)
+2018-09-26 16:32:30 -<==      Total: 51
+2018-09-26 16:32:30 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:32:30 -HTTP METHOD : GET
+2018-09-26 16:32:30 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:32:30 -参数 : []
+2018-09-26 16:32:30 -耗时 : 0
+2018-09-26 16:32:30 -返回值 : work/plan/plan
+2018-09-26 16:32:31 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:32:31 -HTTP METHOD : GET
+2018-09-26 16:32:31 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:32:31 -参数 : []
+2018-09-26 16:32:31 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:32:31 -==> Parameters: 
+2018-09-26 16:32:31 -<==      Total: 5
+2018-09-26 16:32:31 -耗时 : 1
+2018-09-26 16:32:31 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:35:56 -请求地址 : http://localhost:8080/index
+2018-09-26 16:35:56 -HTTP METHOD : GET
+2018-09-26 16:35:56 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:35:56 -参数 : [{}]
+2018-09-26 16:35:56 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:35:56 -==> Parameters: 1(Long)
+2018-09-26 16:35:56 -<==      Total: 30
+2018-09-26 16:35:56 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:35:56 -==> Parameters: 140(Long)
+2018-09-26 16:35:56 -<==      Total: 1
+2018-09-26 16:35:56 -耗时 : 23
+2018-09-26 16:35:56 -返回值 : index_v1
+2018-09-26 16:35:56 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:35:56 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 24(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:35:56.421(Timestamp)
+2018-09-26 16:35:56 -<==    Updates: 1
+2018-09-26 16:35:56 -请求地址 : http://localhost:8080/main
+2018-09-26 16:35:56 -HTTP METHOD : GET
+2018-09-26 16:35:56 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:35:56 -参数 : []
+2018-09-26 16:35:56 -耗时 : 1
+2018-09-26 16:35:56 -返回值 : main
+2018-09-26 16:35:56 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:35:56 -HTTP METHOD : GET
+2018-09-26 16:35:56 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:35:56 -参数 : []
+2018-09-26 16:35:56 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:35:56 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:35:56 -<==      Total: 0
+2018-09-26 16:35:56 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:35:56 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:35:56 -<==      Total: 1
+2018-09-26 16:35:56 -耗时 : 26
+2018-09-26 16:35:56 -返回值 : com.bootdo.common.utils.PageUtils@cec7340
+2018-09-26 16:35:56 -请求地址 : http://localhost:8080/main
+2018-09-26 16:35:56 -HTTP METHOD : GET
+2018-09-26 16:35:56 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:35:56 -参数 : []
+2018-09-26 16:35:56 -耗时 : 0
+2018-09-26 16:35:56 -返回值 : main
+2018-09-26 16:35:58 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:35:58 -==> Parameters: 1(Long)
+2018-09-26 16:35:58 -<==      Total: 51
+2018-09-26 16:35:58 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:35:58 -HTTP METHOD : GET
+2018-09-26 16:35:58 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:35:58 -参数 : []
+2018-09-26 16:35:58 -耗时 : 1
+2018-09-26 16:35:58 -返回值 : work/plan/plan
+2018-09-26 16:35:59 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:35:59 -HTTP METHOD : GET
+2018-09-26 16:35:59 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:35:59 -参数 : []
+2018-09-26 16:35:59 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:35:59 -==> Parameters: 
+2018-09-26 16:35:59 -<==      Total: 5
+2018-09-26 16:35:59 -耗时 : 2
+2018-09-26 16:35:59 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:36:35 -请求地址 : http://localhost:8080/index
+2018-09-26 16:36:35 -HTTP METHOD : GET
+2018-09-26 16:36:35 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:36:35 -参数 : [{}]
+2018-09-26 16:36:35 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:36:35 -==> Parameters: 1(Long)
+2018-09-26 16:36:35 -<==      Total: 30
+2018-09-26 16:36:35 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:36:35 -==> Parameters: 140(Long)
+2018-09-26 16:36:35 -<==      Total: 1
+2018-09-26 16:36:35 -耗时 : 33
+2018-09-26 16:36:35 -返回值 : index_v1
+2018-09-26 16:36:35 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:36:35 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 33(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:36:35.67(Timestamp)
+2018-09-26 16:36:35 -请求地址 : http://localhost:8080/main
+2018-09-26 16:36:35 -HTTP METHOD : GET
+2018-09-26 16:36:35 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:36:35 -参数 : []
+2018-09-26 16:36:35 -耗时 : 1
+2018-09-26 16:36:35 -返回值 : main
+2018-09-26 16:36:35 -<==    Updates: 1
+2018-09-26 16:36:35 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:36:35 -HTTP METHOD : GET
+2018-09-26 16:36:35 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:36:35 -参数 : []
+2018-09-26 16:36:35 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:36:35 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:36:35 -<==      Total: 0
+2018-09-26 16:36:35 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:36:35 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:36:35 -<==      Total: 1
+2018-09-26 16:36:35 -耗时 : 15
+2018-09-26 16:36:35 -返回值 : com.bootdo.common.utils.PageUtils@64d113cb
+2018-09-26 16:36:36 -请求地址 : http://localhost:8080/main
+2018-09-26 16:36:36 -HTTP METHOD : GET
+2018-09-26 16:36:36 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:36:36 -参数 : []
+2018-09-26 16:36:36 -耗时 : 1
+2018-09-26 16:36:36 -返回值 : main
+2018-09-26 16:36:38 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:36:38 -HTTP METHOD : GET
+2018-09-26 16:36:38 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:36:38 -参数 : []
+2018-09-26 16:36:38 -耗时 : 0
+2018-09-26 16:36:38 -返回值 : work/plan/plan
+2018-09-26 16:36:38 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:36:38 -HTTP METHOD : GET
+2018-09-26 16:36:38 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:36:38 -参数 : []
+2018-09-26 16:36:38 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:36:38 -==> Parameters: 
+2018-09-26 16:36:38 -<==      Total: 5
+2018-09-26 16:36:38 -耗时 : 3
+2018-09-26 16:36:38 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:39:05 -请求地址 : http://localhost:8080/index
+2018-09-26 16:39:05 -HTTP METHOD : GET
+2018-09-26 16:39:05 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:39:05 -参数 : [{}]
+2018-09-26 16:39:05 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:39:05 -==> Parameters: 1(Long)
+2018-09-26 16:39:05 -<==      Total: 30
+2018-09-26 16:39:05 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:39:05 -==> Parameters: 140(Long)
+2018-09-26 16:39:05 -<==      Total: 1
+2018-09-26 16:39:05 -耗时 : 4
+2018-09-26 16:39:05 -返回值 : index_v1
+2018-09-26 16:39:05 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:39:05 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 5(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:39:05.461(Timestamp)
+2018-09-26 16:39:05 -<==    Updates: 1
+2018-09-26 16:39:05 -请求地址 : http://localhost:8080/main
+2018-09-26 16:39:05 -HTTP METHOD : GET
+2018-09-26 16:39:05 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:39:05 -参数 : []
+2018-09-26 16:39:05 -耗时 : 0
+2018-09-26 16:39:05 -返回值 : main
+2018-09-26 16:39:05 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:39:05 -HTTP METHOD : GET
+2018-09-26 16:39:05 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:39:05 -参数 : []
+2018-09-26 16:39:05 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:39:05 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:39:05 -<==      Total: 0
+2018-09-26 16:39:05 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:39:05 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:39:05 -<==      Total: 1
+2018-09-26 16:39:05 -请求地址 : http://localhost:8080/main
+2018-09-26 16:39:05 -HTTP METHOD : GET
+2018-09-26 16:39:05 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:39:05 -参数 : []
+2018-09-26 16:39:05 -耗时 : 0
+2018-09-26 16:39:05 -返回值 : main
+2018-09-26 16:39:05 -耗时 : 43
+2018-09-26 16:39:05 -返回值 : com.bootdo.common.utils.PageUtils@7b7d400e
+2018-09-26 16:39:07 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:39:07 -==> Parameters: 1(Long)
+2018-09-26 16:39:07 -<==      Total: 51
+2018-09-26 16:39:07 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:39:07 -HTTP METHOD : GET
+2018-09-26 16:39:07 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:39:07 -参数 : []
+2018-09-26 16:39:07 -耗时 : 1
+2018-09-26 16:39:07 -返回值 : work/plan/plan
+2018-09-26 16:39:08 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:39:08 -HTTP METHOD : GET
+2018-09-26 16:39:08 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:39:08 -参数 : []
+2018-09-26 16:39:08 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:39:08 -==> Parameters: 
+2018-09-26 16:39:08 -<==      Total: 5
+2018-09-26 16:39:08 -耗时 : 2
+2018-09-26 16:39:08 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:40:50 -请求地址 : http://localhost:8080/index
+2018-09-26 16:40:50 -HTTP METHOD : GET
+2018-09-26 16:40:50 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:40:50 -参数 : [{}]
+2018-09-26 16:40:50 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:40:50 -==> Parameters: 1(Long)
+2018-09-26 16:40:50 -<==      Total: 30
+2018-09-26 16:40:50 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:40:50 -==> Parameters: 140(Long)
+2018-09-26 16:40:50 -<==      Total: 1
+2018-09-26 16:40:50 -耗时 : 47
+2018-09-26 16:40:50 -返回值 : index_v1
+2018-09-26 16:40:50 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:40:50 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 47(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:40:50.56(Timestamp)
+2018-09-26 16:40:50 -<==    Updates: 1
+2018-09-26 16:40:50 -请求地址 : http://localhost:8080/main
+2018-09-26 16:40:50 -HTTP METHOD : GET
+2018-09-26 16:40:50 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:40:50 -参数 : []
+2018-09-26 16:40:50 -耗时 : 0
+2018-09-26 16:40:50 -返回值 : main
+2018-09-26 16:40:50 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:40:50 -HTTP METHOD : GET
+2018-09-26 16:40:50 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:40:50 -参数 : []
+2018-09-26 16:40:50 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:40:50 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:40:50 -<==      Total: 0
+2018-09-26 16:40:50 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:40:50 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:40:50 -<==      Total: 1
+2018-09-26 16:40:50 -耗时 : 92
+2018-09-26 16:40:50 -返回值 : com.bootdo.common.utils.PageUtils@189ba6c8
+2018-09-26 16:40:50 -请求地址 : http://localhost:8080/main
+2018-09-26 16:40:51 -HTTP METHOD : GET
+2018-09-26 16:40:51 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:40:51 -参数 : []
+2018-09-26 16:40:51 -耗时 : 54
+2018-09-26 16:40:51 -返回值 : main
+2018-09-26 16:41:12 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:41:12 -==> Parameters: 1(Long)
+2018-09-26 16:41:12 -<==      Total: 51
+2018-09-26 16:41:12 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:41:12 -HTTP METHOD : GET
+2018-09-26 16:41:12 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:41:12 -参数 : []
+2018-09-26 16:41:12 -耗时 : 0
+2018-09-26 16:41:12 -返回值 : work/plan/plan
+2018-09-26 16:41:12 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:41:12 -HTTP METHOD : GET
+2018-09-26 16:41:12 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:41:12 -参数 : []
+2018-09-26 16:41:12 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:41:12 -==> Parameters: 
+2018-09-26 16:41:12 -<==      Total: 5
+2018-09-26 16:41:12 -耗时 : 2
+2018-09-26 16:41:12 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:41:45 -请求地址 : http://localhost:8080/
+2018-09-26 16:41:45 -HTTP METHOD : GET
+2018-09-26 16:41:45 -CLASS_METHOD : com.bootdo.system.controller.LoginController.welcome
+2018-09-26 16:41:45 -参数 : [{}]
+2018-09-26 16:41:45 -耗时 : 0
+2018-09-26 16:41:45 -返回值 : redirect:/index
+2018-09-26 16:41:45 -请求地址 : http://localhost:8080/login;JSESSIONID=1a354f17-dd99-4f16-b1f2-8ae605720561
+2018-09-26 16:41:45 -HTTP METHOD : GET
+2018-09-26 16:41:45 -CLASS_METHOD : com.bootdo.system.controller.LoginController.login
+2018-09-26 16:41:45 -参数 : []
+2018-09-26 16:41:45 -耗时 : 0
+2018-09-26 16:41:45 -返回值 : login
+2018-09-26 16:41:47 -请求地址 : http://localhost:8080/login
+2018-09-26 16:41:47 -HTTP METHOD : POST
+2018-09-26 16:41:47 -CLASS_METHOD : com.bootdo.system.controller.LoginController.ajaxLogin
+2018-09-26 16:41:47 -参数 : [admin, 111111]
+2018-09-26 16:41:47 -==>  Preparing: select `user_id`,`username`,`name`,`password`,`dept_id`,`email`,`mobile`,`status`,`user_id_create`,`gmt_create`,`gmt_modified`,`sex`,`birth`,`pic_id`,`live_address`,`hobby`,`province`,`city`,`district` from sys_user WHERE username = ? order by user_id desc 
+2018-09-26 16:41:47 -==> Parameters: admin(String)
+2018-09-26 16:41:47 -<==      Total: 1
+2018-09-26 16:41:47 -耗时 : 263
+2018-09-26 16:41:47 -返回值 : {msg=操作成功, code=0}
+2018-09-26 16:41:47 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:41:47 -==> Parameters: 1(Long), admin(String), 登录(String), 263(Integer), com.bootdo.system.controller.LoginController.ajaxLogin()(String), null, 127.0.0.1(String), 2018-09-26 16:41:47.643(Timestamp)
+2018-09-26 16:41:47 -请求地址 : http://localhost:8080/index
+2018-09-26 16:41:47 -HTTP METHOD : GET
+2018-09-26 16:41:47 -CLASS_METHOD : com.bootdo.system.controller.LoginController.index
+2018-09-26 16:41:47 -参数 : [{}]
+2018-09-26 16:41:47 -<==    Updates: 1
+2018-09-26 16:41:47 -==>  Preparing: select distinct m.menu_id , parent_id, name, url, perms,`type`,icon,order_num,gmt_create, gmt_modified from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id =ur.role_id where ur.user_id = ? and m.type in(0,1) order by m.order_num 
+2018-09-26 16:41:47 -==> Parameters: 1(Long)
+2018-09-26 16:41:47 -<==      Total: 30
+2018-09-26 16:41:47 -==>  Preparing: select `id`,`type`,`url`,`create_date` from sys_file where id = ? 
+2018-09-26 16:41:47 -==> Parameters: 140(Long)
+2018-09-26 16:41:47 -<==      Total: 1
+2018-09-26 16:41:47 -耗时 : 323
+2018-09-26 16:41:47 -返回值 : index_v1
+2018-09-26 16:41:47 -==>  Preparing: insert into sys_log ( `user_id`, `username`, `operation`, `time`, `method`, `params`, `ip`, `gmt_create` ) values ( ?, ?, ?, ?, ?, ?, ?, ? ) 
+2018-09-26 16:41:47 -==> Parameters: 1(Long), admin(String), 请求访问主页(String), 323(Integer), com.bootdo.system.controller.LoginController.index()(String), {"menus":[{"attributes":{"icon":"fa fa-bars","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-book","url":"/common/dict"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"78","parentId":"1","text":"数据字典"},{"attributes":{"icon":"fa fa-folder-open","url":"/common/sysFile"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"71","parentId":"1","text":"文件管理"}],"hasChildren":true,"hasParent":false,"id":"1","parentId":"0","text":"基础管理"},{"attributes":{"icon":"fa fa-desktop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/user/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"6","parentId":"3","text":"用户管理"},{"attributes":{"icon":"fa fa-paw","url":"sys/role"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"7","parentId":"3","text":"角色管理"},{"attributes":{"icon":"fa fa-th-list","url":"sys/menu/"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"2","parentId":"3","text":"系统菜单"},{"attributes":{"icon":"fa fa-users","url":"/system/sysDept"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"73","parentId":"3","text":"部门管理"}],"hasChildren":true,"hasParent":false,"id":"3","parentId":"0","text":"系统管理"},{"attributes":{"icon":"fa fa-laptop"},"checked":false,"children":[{"attributes":{"icon":"fa fa-laptop","url":"work/plan"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"106","parentId":"105","text":"工作计划"}],"hasChildren":true,"hasParent":false,"id":"105","parentId":"0","text":"工作管理"},{"attributes":{"icon":"fa fa-gear","url":""},"checked":false,"children":[{"attributes":{"icon":"","url":"/swagger-ui.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"104","parentId":"77","text":"swagger"},{"attributes":{"icon":"fa fa-code","url":"common/generator"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"48","parentId":"77","text":"代码生成"},{"attributes":{"icon":"fa fa-hourglass-1","url":"common/job"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"72","parentId":"77","text":"计划任务"}],"hasChildren":true,"hasParent":false,"id":"77","parentId":"0","text":"系统工具"},{"attributes":{"icon":"fa fa-video-camera","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-user","url":"sys/online"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"92","parentId":"91","text":"在线用户"},{"attributes":{"icon":"fa fa-warning","url":"common/log"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"27","parentId":"91","text":"系统日志"},{"attributes":{"icon":"fa fa-caret-square-o-right","url":"/druid/index.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"57","parentId":"91","text":"运行监控"}],"hasChildren":true,"hasParent":false,"id":"91","parentId":"0","text":"系统监控"},{"attributes":{"icon":"fa fa-laptop","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-pencil-square","url":"oa/notify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"85","parentId":"84","text":"通知公告"},{"attributes":{"icon":"fa fa-envelope-square","url":"oa/notify/selfNotify"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"90","parentId":"84","text":"我的通知"}],"hasChildren":true,"hasParent":false,"id":"84","parentId":"0","text":"办公管理"},{"attributes":{"icon":"fa fa-print","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-flag","url":"activiti/process"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"96","parentId":"93","text":"流程管理"},{"attributes":{"icon":"","url":"activiti/task/todo"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"101","parentId":"93","text":"待办任务"},{"attributes":{"icon":"fa fa-sort-amount-asc","url":"activiti/model"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"94","parentId":"93","text":"模型管理"}],"hasChildren":true,"hasParent":false,"id":"93","parentId":"0","text":"工作流程"},{"attributes":{"icon":"fa fa-rss","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-edit","url":"/blog/bContent/add"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"68","parentId":"49","text":"发布文章"},{"attributes":{"icon":"fa fa-file-image-o","url":"blog/bContent"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"50","parentId":"49","text":"文章列表"}],"hasChildren":true,"hasParent":false,"id":"49","parentId":"0","text":"博客管理"},{"attributes":{"icon":"fa fa-bar-chart","url":""},"checked":false,"children":[{"attributes":{"icon":"fa fa-area-chart","url":"/chart/graph_echarts.html"},"checked":false,"children":[],"hasChildren":false,"hasParent":true,"id":"98","parentId":"97","text":"百度chart"}],"hasChildren":true,"hasParent":false,"id":"97","parentId":"0","text":"图表管理"}],"name":"超级管理员","picUrl":"/files/c239b42a-42b2-4a2f-b508-1eaec7(String), 127.0.0.1(String), 2018-09-26 16:41:47.985(Timestamp)
+2018-09-26 16:41:48 -<==    Updates: 1
+2018-09-26 16:41:48 -请求地址 : http://localhost:8080/main
+2018-09-26 16:41:48 -HTTP METHOD : GET
+2018-09-26 16:41:48 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:41:48 -参数 : []
+2018-09-26 16:41:48 -耗时 : 0
+2018-09-26 16:41:48 -返回值 : main
+2018-09-26 16:41:48 -请求地址 : http://localhost:8080/oa/notify/message
+2018-09-26 16:41:48 -HTTP METHOD : GET
+2018-09-26 16:41:48 -CLASS_METHOD : com.bootdo.oa.controller.NotifyController.message
+2018-09-26 16:41:48 -参数 : []
+2018-09-26 16:41:48 -==>  Preparing: select DISTINCT n.id ,`type`,`title`,`content`,`files`,r.is_read,`status`,`create_by`,`create_date`,`update_by`,`update_date`,`remarks`,`del_flag` from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id WHERE r.is_read = ? and r.user_id = ? order by is_read ASC, update_date DESC limit ?, ? 
+2018-09-26 16:41:48 -==> Parameters: 0(String), 1(Long), 0(Integer), 3(Integer)
+2018-09-26 16:41:48 -<==      Total: 0
+2018-09-26 16:41:48 -==>  Preparing: select count(*) from oa_notify_record r right JOIN oa_notify n on r.notify_id = n.id where r.user_id =? and r.is_read = ? 
+2018-09-26 16:41:48 -==> Parameters: 1(Long), 0(String)
+2018-09-26 16:41:48 -<==      Total: 1
+2018-09-26 16:41:48 -耗时 : 4
+2018-09-26 16:41:48 -返回值 : com.bootdo.common.utils.PageUtils@bb18f8e
+2018-09-26 16:41:48 -请求地址 : http://localhost:8080/main
+2018-09-26 16:41:48 -HTTP METHOD : GET
+2018-09-26 16:41:48 -CLASS_METHOD : com.bootdo.system.controller.LoginController.main
+2018-09-26 16:41:48 -参数 : []
+2018-09-26 16:41:48 -耗时 : 1
+2018-09-26 16:41:48 -返回值 : main
+2018-09-26 16:41:50 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:41:50 -==> Parameters: 1(Long)
+2018-09-26 16:41:50 -<==      Total: 51
+2018-09-26 16:41:50 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:41:50 -HTTP METHOD : GET
+2018-09-26 16:41:50 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:41:50 -参数 : []
+2018-09-26 16:41:50 -耗时 : 0
+2018-09-26 16:41:50 -返回值 : work/plan/plan
+2018-09-26 16:41:50 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:41:50 -HTTP METHOD : GET
+2018-09-26 16:41:50 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:41:50 -参数 : []
+2018-09-26 16:41:50 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:41:50 -==> Parameters: 
+2018-09-26 16:41:50 -<==      Total: 5
+2018-09-26 16:41:50 -耗时 : 47
+2018-09-26 16:41:50 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:45:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 24207]
+2018-09-26 16:45:47 -==>  Preparing: select distinct m.perms from sys_menu m left join sys_role_menu rm on m.menu_id = rm.menu_id left join sys_user_role ur on rm.role_id = ur.role_id where ur.user_id = ? 
+2018-09-26 16:45:47 -==> Parameters: 1(Long)
+2018-09-26 16:45:47 -<==      Total: 51
+2018-09-26 16:45:47 -请求地址 : http://localhost:8080/work/plan
+2018-09-26 16:45:47 -HTTP METHOD : GET
+2018-09-26 16:45:47 -CLASS_METHOD : com.bootdo.work.controller.PlanController.plan
+2018-09-26 16:45:47 -参数 : []
+2018-09-26 16:45:47 -耗时 : 0
+2018-09-26 16:45:47 -返回值 : work/plan/plan
+2018-09-26 16:45:47 -请求地址 : http://localhost:8080/work/plan/list
+2018-09-26 16:45:47 -HTTP METHOD : GET
+2018-09-26 16:45:47 -CLASS_METHOD : com.bootdo.work.controller.PlanController.list
+2018-09-26 16:45:47 -参数 : []
+2018-09-26 16:45:47 -==>  Preparing: select `Indx`,`workTask`,`productName`,`developer`,`preStartTime`,`preFinishTime`,`remark` from t_work_plan order by Indx desc 
+2018-09-26 16:45:47 -==> Parameters: 
+2018-09-26 16:45:47 -<==      Total: 5
+2018-09-26 16:45:47 -耗时 : 2
+2018-09-26 16:45:47 -返回值 : [WorkPlanDO{Indx=5, workTask='2', productName='', developer='', preStartTime=2018-09-05 00:00:00.0, preFinishTime=2018-09-04 00:00:00.0, remark=''}, WorkPlanDO{Indx=4, workTask='1', productName='2', developer='3', preStartTime=2018-09-04 00:00:00.0, preFinishTime=2018-08-29 00:00:00.0, remark='4'}, WorkPlanDO{Indx=3, workTask='特殊状态调整', productName='CMCA', developer='Lee', preStartTime=2018-09-19 00:00:00.0, preFinishTime=2018-09-20 00:00:00.0, remark='暂无'}, WorkPlanDO{Indx=2, workTask='CMCA的E账册小清单下载
+CIQ编码更新', productName='CMCA制单中心', developer='Lee', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark=' 无'}, WorkPlanDO{Indx=1, workTask='CMCA报关单PDF正本下载', productName='CMCA', developer='TomSun', preStartTime=2018-09-17 00:00:00.0, preFinishTime=2018-09-17 00:00:00.0, remark='N/A'}]
+2018-09-26 16:47:04 -Validating all active sessions...
+2018-09-26 16:47:04 -Finished session validation.  [1] sessions were stopped.
+2018-09-26 17:15:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 24640]
+2018-09-26 17:45:41 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 25073]
+2018-09-26 17:47:04 -Validating all active sessions...
+2018-09-26 17:47:04 -Finished session validation.  [2] sessions were stopped.
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 25452]
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 25813]
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 26174]
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 26535]
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 26896]
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 27257]
+2018-09-26 21:55:13 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 27618]
+2018-09-26 21:55:14 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 28094]
+2018-09-26 21:55:13 -Validating all active sessions...
+2018-09-26 21:55:14 -Finished session validation.  No sessions were stopped.
+2018-09-26 21:55:14 -Validating all active sessions...
+2018-09-26 21:55:14 -Finished session validation.  No sessions were stopped.
+2018-09-26 21:55:14 -Validating all active sessions...
+2018-09-26 21:55:14 -Finished session validation.  No sessions were stopped.
+2018-09-26 21:55:14 -Validating all active sessions...
+2018-09-26 21:55:14 -Finished session validation.  No sessions were stopped.
+2018-09-26 22:15:38 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 28389]
+2018-09-26 22:32:00 -请求地址 : http://localhost:8080/login;JSESSIONID=2912cd05-1489-4a9e-94ae-e26b2e9ffd15
+2018-09-26 22:32:00 -HTTP METHOD : GET
+2018-09-26 22:32:00 -CLASS_METHOD : com.bootdo.system.controller.LoginController.login
+2018-09-26 22:32:00 -参数 : []
+2018-09-26 22:32:00 -耗时 : 0
+2018-09-26 22:32:00 -返回值 : login
+2018-09-26 22:45:39 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 28822]
+2018-09-26 22:47:01 -Validating all active sessions...
+2018-09-26 22:47:01 -Finished session validation.  No sessions were stopped.
+2018-09-26 23:15:39 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 29255]
+2018-09-26 23:45:39 -WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 25 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(25)-CONNECTED(25)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 297], outboundChannelpool size = 0, active threads = 0, queued tasks = 0, completed tasks = 52], sockJsScheduler[pool size = 4, active threads = 1, queued tasks = 2, completed tasks = 29687]
+2018-09-26 23:47:01 -Validating all active sessions...
+2018-09-26 23:47:02 -Finished session validation.  [14] sessions were stopped.
